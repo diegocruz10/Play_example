@@ -1,0 +1,9 @@
+compile
+run
+sbt update
+sbt dist
+sbt -run
+sbt run
+run
+compile
+run

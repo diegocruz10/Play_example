@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\felip\Documents\Arquitectura\Play\Proyectos\ejemplo1\app\controllers\BooksController.java:29:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   method formFactory(java.lang.Class<models.Book>)[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class play.data.Form[0m
+[0m[[0m[31merror[0m] [0m[0m		Form<Book> bookForm = Form.formFactory(Book.class);[0m
